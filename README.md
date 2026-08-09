@@ -99,10 +99,10 @@ This project demonstrates the design and implementation of a 3-lead ECG monitori
 
 | Index No. | Name |
 |---|---|
-| [240657J] | [Thennakoon U.I.D] |
-| [240518K] | [Pitiduwa S.M.] |
-| [240695X] | [Wanninayaka W.M.I.R] |
-| [240054H] | [Bandara A.H.M.H.N.] |
+| 240657J | Thennakoon U.I.D |
+| 240518K | Pitiduwa S.M. |
+| 240695X | Wanninayaka W.M.I.R |
+| 240054H | Bandara A.H.M.H.N. |
 
 ---
 
